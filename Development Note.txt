@@ -23,3 +23,7 @@ Drain: Opposite of Tap, removing resources over time
 A return to the start without the power creep
 You can make it interesting by turning Drain into a stock 
 market, exchange rate and decay.
+
+
+Note to self: You WANT tilt-shift camera effect, but it is not
+worth it right now
