@@ -1,0 +1,25 @@
+Tap: Generating resources over time (Resource Income)
+
+Inventory: a limited storage (Resource storage), 
+capped to limit players from progressing too fast
+
+Converter: Convert resources into other useful items
+(For example: Exp, money)
+- lot of separate resource type = chill exploration
+- lot of resource overlay conversion = limited conversion
+
+GRIND:
+Positive feedback loop
+- rewarding for players to go back.
+Negative feedback loop
+- decrease incentive
+- shallow expotential/linear growth for leveling
+
+	How do you make it more things more efficient?
+	How to deal with sudden changes?
+
+Drain: Opposite of Tap, removing resources over time
+(Example: hunger, weapon wear, food spoil)
+A return to the start without the power creep
+You can make it interesting by turning Drain into a stock 
+market, exchange rate and decay.
